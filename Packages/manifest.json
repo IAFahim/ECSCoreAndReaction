@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.bovinelabs.core": "https://gitlab.com/tertle/com.bovinelabs.core.git#1.3.4",
     "com.unity.ai.navigation": "2.0.5",
     "com.unity.collab-proxy": "2.6.0",
     "com.unity.entities": "1.3.9",
